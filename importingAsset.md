@@ -1,6 +1,6 @@
 <h1 align="center">Importing Assets</h1>
 
-To import assets, there are four steps to follow which are listed below.
+To import assets, there are five steps to follow which are listed below.
 
 ### Step1. Asset contracts deployment
 
